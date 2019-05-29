@@ -1,6 +1,6 @@
-Js Hello World Demo
-===================
+JavaScript Check Click Event on DOM Demo
+========================================
 
 Open `index.html` in your browser.
 
-You will see "Hello, JS!" on the page.
+
